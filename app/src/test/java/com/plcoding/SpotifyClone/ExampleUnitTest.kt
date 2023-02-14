@@ -1,4 +1,4 @@
-package com.plcoding.spotifycloneyt
+package com.plcoding.SpotifyClone
 
 import org.junit.Test
 
